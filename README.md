@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/davoodtaba-glitch/BLA-VPN-Desktop/releases"><img src="https://img.shields.io/github/v/release/davoodtaba-glitch/BLA-VPN-Desktop?style=flat-square&label=release" alt="release"></a>
   <a href="https://t.me/blavpn"><img src="https://img.shields.io/badge/Telegram-blavpn-26A5E4?style=flat-square" alt="Telegram"></a>
-  <img src="https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?style=flat-square" alt="Windows">
+  <img src="https://github.com/davoodtaba-glitch/BLA-VPN-Desktop/blob/main/docs/Screenshot.png">
 </p>
 
 <p align="center">
