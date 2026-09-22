@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/screenshot.png" alt="BLA VPN Desktop" width="420">
+  <img src="docs/Screenshot.png" alt="BLA VPN Desktop" width="420">
 </p>
 
 <h1 align="center">BLA VPN</h1>
