@@ -70,3 +70,6 @@ No installer required. Settings live next to the exe (`data\`).
 ## License
 
 Use at your own risk. You are responsible for complying with local laws.
+
+## v1.3
+support for psiphon
